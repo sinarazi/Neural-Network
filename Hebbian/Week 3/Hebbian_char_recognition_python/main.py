@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * # GUI library
 import tkinter.font as font
 from tkinter import messagebox
 
