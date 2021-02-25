@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter.font as font
 from tkinter import messagebox
 
-
+# func
 def hebbian(entry):
     learning_entry = []
     weight = []
